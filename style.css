@@ -1,0 +1,136 @@
+.navbar{
+    background-color: gold !important;
+}
+.navbar-brand{
+    display: flex;
+    height: 60x;
+    width: 100px;
+    color: white !important;
+    padding-left: 10px;
+}
+.nav-link{
+    color: white !important;
+    /* font-weight: bold !important; */
+    
+}
+.dropdown-item{
+    color: gold !important;
+}
+a:hover {
+    background-color: lightskyblue;
+  }
+
+.slide{
+    margin-top: 3px !important;
+}
+.grids{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    color: white !important;
+}
+
+.grid-1{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 110px;
+    width: 40%;
+    background-color:  gold !important;
+    box-shadow: 2px 4px 5px lightblue;
+       
+}
+.grid-2{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 112px;
+    width: 40%;
+    background-color:gold !important;
+    box-shadow: 2px 4px 5px lightblue;
+    
+    
+}
+
+.fa-truck{
+    font-size: 40px !important;
+    margin-right: 15px !important;
+    
+}
+.fa-gift{
+    font-size: 50px !important;
+    margin-right: 15px !important;
+    
+}
+
+
+.head{
+    margin-top: 3px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: gold !important;
+}
+.head-A{
+    color: white !important;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    padding: 5px !important;
+    height: auto !important;
+    margin-top: 30px;
+    margin-left: 15px;
+    box-shadow: gold !important; 
+    
+}
+.shadow-lg{
+    margin-top: 40px; 
+}
+
+.row{
+    display: flex;
+}
+
+.end{
+    margin-top: 70px;
+    width: 100%;
+    height: 50%;
+    color: white !important;
+    background-color: gold !important;
+}
+
+.line{
+    line-height: 1.8;
+}    
+
+.btn-warning{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: white !important;
+}
+
+.card-text{
+    color: white !important;
+}
+.card-title-1{
+    color: white !important;
+}
+.btn-light{
+    color: gold !important;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card-title{
+    color: gold !important;
+    font-weight: bold;
+}
+
+
+    
